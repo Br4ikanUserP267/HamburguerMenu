@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tallerDos.VisionArtificial"
+             Title="Artificial Vision">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Humans use our eyes to understand the world around us. Artificial vision is a scientific discipline that aims to enable computers to achieve the same capacity, i.e. it tries to ensure that machines can perceive and understand one or more images and act in a certain way. Below, we review some of its applications"
+                 />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

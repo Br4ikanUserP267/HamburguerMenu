@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tallerDos.DeepLearning"
+             Title="Deep Learning ">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data." />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
